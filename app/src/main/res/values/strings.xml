@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Aplikasi Dicoding Event</string>
+    <string name="image">Gambar</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="finish">Ini event yang udah kelar ges!</string>
+    <string name="dicoding">Dicoding Event</string>
+    <string name="recomend">Ini rekomendasi event untuk kamu!</string>
+    <string name="title_event">Drop your event here</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="organizer_name">Nama penyelenggara</string>
+    <string name="summary_event">Ringkasan</string>
+    <string name="time_event">Waktu</string>
+    <string name="quota_event">Sisa Kuota</string>
+    <string name="registrant_event">Pendaftar</string>
+    <string name="detail_event">Detail</string>
+    <string name="desc_event">Deskripsi</string>
+    <string name="register">Register</string>
+    <string name="fav">Ini event yang kamu favoritin!</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="settings">Settings</string>
+    <string name="enable_dark_mode">Enable dark mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="enable_notifications">Enable Notifications</string>
+
+</resources>
